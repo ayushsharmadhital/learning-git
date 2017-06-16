@@ -1,7 +1,26 @@
 # About this repo
-This repo consists of all the git related works I have learned at Technorio Inc as an Intern / WordPress Developer.
+This repo consists of all the git related works I have learned at [Technorio Inc.](http://technorio.com/) as an Intern / WordPress Developer.
 ## My Daily log
 > I will be adding my daily logs here in reverse chronological order.
+
+### Working Day #5 / Week #1
+Thursday, 15 June 2017
+
+#### Work Done
+- Continued WP theme customisation for a School
+- Had a presentation done in "Improving Productivity using Google Apps"
+
+####Work planned to do
+- Complete WP Theme customisation for school
+- Install Ubuntu
+
+### Working Day #4
+Wednesday, 14 June 2017
+
+#### Work Done
+- Continued WP theme development learning from scratch
+- Woking on WP customisation for school
+- Done and Completed [Markdown Assignment](https://github.com/aalooksth/learning-git/blob/master/Readmenote.txt)
 
 ### Working Day #4
 Wednesday, 14 June 2017
