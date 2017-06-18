@@ -3,6 +3,17 @@ This repo consists of all the git related works I have learned at [Technorio Inc
 ## My Daily log
 > I will be adding my daily logs here in reverse chronological order.
 
+### Working Day #6 / Week #2
+Sunday, 18 June 2017
+
+#### Work Done
+- Continued learning WordPress Theme development from scratch (Learnt template including)
+- Started Theme customisation for a School in a new theme
+- Learnt more on git via session (relating to rebase, fetch) and implementation
+
+#### Work planned to do
+- Continue WP Theme customisation for school
+
 ### Working Day #5 / Week #1
 Thursday, 15 June 2017
 
@@ -10,7 +21,7 @@ Thursday, 15 June 2017
 - Continued WP theme customisation for a School
 - Had a presentation done in "Improving Productivity using Google Apps"
 
-####Work planned to do
+#### Work planned to do
 - Complete WP Theme customisation for school
 - Install Ubuntu
 
